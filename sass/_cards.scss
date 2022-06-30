@@ -1,0 +1,19 @@
+.container-card {
+  .card {
+    .card__text-container {
+      a{color: $primary-color;}
+      & div {
+        display: flex;
+        margin-bottom: 4px;
+        span {
+          color: $secondary-color;
+          font-weight: 600;
+        }
+      }
+      p {
+        color: $secondary-color;
+        font-weight: normal;
+      }
+    }
+  }
+}
