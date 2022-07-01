@@ -22,101 +22,101 @@ const course = [
     video: `<iframe width="100%" height="315" src="https://www.youtube.com/embed/A60uWXv2Q-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
   },
 
-  // {
-  //   date: "27/06/2022",
-  //   title: "Live-code Session",
-  //   video: `<iframe width="100%" height="315" src="https://www.youtube.com/embed/XZ37KcVzm7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-  // },
-  // {
-  //   date: "27/06/2022",
-  //   title: "Introducción a git, github & gitflow",
-  //   video: `<iframe width="100%" height="315" src="https://www.youtube.com/embed/-iIKo9XmnVg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-  // },
+  {
+    date: "27/06/2022",
+    title: "Live-code Session",
+    video: `<iframe width="100%" height="315" src="https://www.youtube.com/embed/XZ37KcVzm7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+  },
+  {
+    date: "27/06/2022",
+    title: "Introducción a git, github & gitflow",
+    video: `<iframe width="100%" height="315" src="https://www.youtube.com/embed/-iIKo9XmnVg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+  },
 
-  // {
-  //   date: "24/06/2022",
-  //   title: "Live-code Session",
-  //   video: `<iframe width="100%" height="315" src="https://www.youtube.com/embed/RabW8B1188s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-  // },
-  // {
-  //   date: "24/06/2022",
-  //   title: "animando un poco nuestro CSS",
-  //   video: `<iframe width="100%" height="315" src="https://www.youtube.com/embed/WdiKJyfM-Lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-  // },
-  // {
-  //   date: "24/06/2022",
-  //   title: "Pseudo elements y classes CSS",
-  //   video: `<iframe width="100%" height="315" src="https://www.youtube.com/embed/5y7vky0snqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-  // },
+  {
+    date: "24/06/2022",
+    title: "Live-code Session",
+    video: `<iframe width="100%" height="315" src="https://www.youtube.com/embed/RabW8B1188s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+  },
+  {
+    date: "24/06/2022",
+    title: "animando un poco nuestro CSS",
+    video: `<iframe width="100%" height="315" src="https://www.youtube.com/embed/WdiKJyfM-Lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+  },
+  {
+    date: "24/06/2022",
+    title: "Pseudo elements y classes CSS",
+    video: `<iframe width="100%" height="315" src="https://www.youtube.com/embed/5y7vky0snqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+  },
 
-  // {
-  //   date: "23/06/2022",
-  //   title: "Charla: IF or ELSE?",
-  //   video: `<iframe width="100%" height="315" src="https://www.youtube.com/embed/haRjamr1ob8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-  // },
-  // {
-  //   date: "23/06/2022",
-  //   title: "Live-code Session",
-  //   video: `<iframe width="100%" height="315" src="https://www.youtube.com/embed/GjO_gHUYdIs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-  // },
-  // {
-  //   date: "23/06/2022",
-  //   title: "Continuación grid",
-  //   video: `<iframe width="100%" height="315" src="https://www.youtube.com/embed/_njo-h5C_dw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-  // },
-  // {
-  //   date: "23/06/2022",
-  //   title: "Unidades de medidas en CSS y introducción a grid",
-  //   video: `<iframe width="100%" height="315" src="https://www.youtube.com/embed/VvHNZyzFPZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-  // },
+  {
+    date: "23/06/2022",
+    title: "Charla: IF or ELSE?",
+    video: `<iframe width="100%" height="315" src="https://www.youtube.com/embed/haRjamr1ob8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+  },
+  {
+    date: "23/06/2022",
+    title: "Live-code Session",
+    video: `<iframe width="100%" height="315" src="https://www.youtube.com/embed/GjO_gHUYdIs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+  },
+  {
+    date: "23/06/2022",
+    title: "Continuación grid",
+    video: `<iframe width="100%" height="315" src="https://www.youtube.com/embed/_njo-h5C_dw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+  },
+  {
+    date: "23/06/2022",
+    title: "Unidades de medidas en CSS y introducción a grid",
+    video: `<iframe width="100%" height="315" src="https://www.youtube.com/embed/VvHNZyzFPZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+  },
 
-  // {
-  //   date: "22/06/2022",
-  //   title: "Live-code Session",
-  //   video: `<iframe width="100%" height="315" src="https://www.youtube.com/embed/2NDq2H9INIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-  // },
-  // {
-  //   date: "22/06/2022",
-  //   title: "creando un sitio con Flexbox",
-  //   video: `<iframe width="100%" height="315" src="https://www.youtube.com/embed/_8IHO2glT3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-  // },
-  // {
-  //   date: "22/06/2022",
-  //   title: "más propiedades CSS ",
-  //   video: `<iframe width="100%" height="315" src="https://www.youtube.com/embed/cPvFwyyE11A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-  // },
+  {
+    date: "22/06/2022",
+    title: "Live-code Session",
+    video: `<iframe width="100%" height="315" src="https://www.youtube.com/embed/2NDq2H9INIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+  },
+  {
+    date: "22/06/2022",
+    title: "creando un sitio con Flexbox",
+    video: `<iframe width="100%" height="315" src="https://www.youtube.com/embed/_8IHO2glT3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+  },
+  {
+    date: "22/06/2022",
+    title: "más propiedades CSS ",
+    video: `<iframe width="100%" height="315" src="https://www.youtube.com/embed/cPvFwyyE11A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+  },
 
-  // {
-  //   date: "21/06/2022",
-  //   title: "Live-code Session",
-  //   video: `<iframe width="100%" height="315" src="https://www.youtube.com/embed/kZajiYQ9sTU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-  // },
-  // {
-  //   date: "21/06/2022",
-  //   title: "Flexbox en detalle",
-  //   video: `<iframe width="100%" height="315" src="https://www.youtube.com/embed/LwCKI3IzCjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-  // },
-  // {
-  //   date: "21/06/2022",
-  //   title: "Repaso propiedades CSS y Flexbox",
-  //   video: `<iframe width="100%" height="315" src="https://www.youtube.com/embed/zZYUFRDviTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-  // },
+  {
+    date: "21/06/2022",
+    title: "Live-code Session",
+    video: `<iframe width="100%" height="315" src="https://www.youtube.com/embed/kZajiYQ9sTU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+  },
+  {
+    date: "21/06/2022",
+    title: "Flexbox en detalle",
+    video: `<iframe width="100%" height="315" src="https://www.youtube.com/embed/LwCKI3IzCjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+  },
+  {
+    date: "21/06/2022",
+    title: "Repaso propiedades CSS y Flexbox",
+    video: `<iframe width="100%" height="315" src="https://www.youtube.com/embed/zZYUFRDviTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+  },
 
-  // {
-  //   date: "20/06/2022",
-  //   title: "Live-code Session",
-  //   video: `<iframe width="100%" height="315" src="https://www.youtube.com/embed/0a5ox8CtA2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-  // },
-  // {
-  //   date: "20/06/2022",
-  //   title: "Introducción al terminal",
-  //   video: `<iframe width="100%" height="315" src="https://www.youtube.com/embed/uAx4x5LaUE4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-  // },
-  // {
-  //   date: "20/06/2022",
-  //   title: "Revisión proyecto del viernes y repaso HTML",
-  //   video: `<iframe width="100%" height="315" src="https://www.youtube.com/embed/3A91X-LH7qM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-  // },
+  {
+    date: "20/06/2022",
+    title: "Live-code Session",
+    video: `<iframe width="100%" height="315" src="https://www.youtube.com/embed/0a5ox8CtA2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+  },
+  {
+    date: "20/06/2022",
+    title: "Introducción al terminal",
+    video: `<iframe width="100%" height="315" src="https://www.youtube.com/embed/uAx4x5LaUE4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+  },
+  {
+    date: "20/06/2022",
+    title: "Revisión proyecto del viernes y repaso HTML",
+    video: `<iframe width="100%" height="315" src="https://www.youtube.com/embed/3A91X-LH7qM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+  },
 
   // {
   //   date: "17/06/2022",
